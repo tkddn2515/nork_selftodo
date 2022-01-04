@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "966757359532",
+    "project_id": "nork-selftodo",
+    "storage_bucket": "nork-selftodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966757359532:android:3787bdb20bfb8c3dcb6409",
+        "android_client_info": {
+          "package_name": "com.nork.selftodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966757359532-044nn1etoh7c45je3psio1nuaaretcbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkluTZ5k4egiiorkFXWNQid5mJa3bRoZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966757359532-044nn1etoh7c45je3psio1nuaaretcbe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966757359532-rojm6mq30ps64981fu1anur8vdcjsqsn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nork.selftodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
